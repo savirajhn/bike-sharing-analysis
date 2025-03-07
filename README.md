@@ -4,10 +4,10 @@ This project visualizes bike sharing data using Streamlit.
 
 ## Installation
 
-1. Clone the repository:
+. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo-url.git
-    cd your-repo-url
+    git clone https://github.com/savirajhn/bike-sharing-analysis.git
+    cd bike-sharing-analysis
     ```
 
 2. Install the required packages:
