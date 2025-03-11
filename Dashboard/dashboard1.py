@@ -9,7 +9,7 @@ import numpy as np
 sns.set(style='darkgrid')
 
 # Load cleaned data
-df = pd.read_csv('bike_sharing_data_cleaned.csv')
+df = pd.read_csv('Dashboard/bike_sharing_data_cleaned.csv')
 df['dteday'] = pd.to_datetime(df['dteday'])
 
 # Sidebar filters
